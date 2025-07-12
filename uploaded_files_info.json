@@ -1,42 +1,22 @@
 [
     {
-        "file_name": "hello_1.jpg",
-        "file_size": 162137
+        "file_name": "peach_1.jpg",
+        "file_size": 2799907
     },
     {
-        "file_name": "hello_2.jpg",
-        "file_size": 436045
+        "file_name": "peach_2.jpg",
+        "file_size": 696524
     },
     {
-        "file_name": "hello_3.jpg",
-        "file_size": 84820
+        "file_name": "peach_3.jpg",
+        "file_size": 1776761
     },
     {
-        "file_name": "hello_4.jpg",
-        "file_size": 40413
+        "file_name": "peach_4.jpg",
+        "file_size": 638864
     },
     {
-        "file_name": "hello_5.jpg",
-        "file_size": 70613
-    },
-    {
-        "file_name": "hello_6.jpg",
-        "file_size": 680350
-    },
-    {
-        "file_name": "hello_7.jpg",
-        "file_size": 167330
-    },
-    {
-        "file_name": "hello_8.jpg",
-        "file_size": 94727
-    },
-    {
-        "file_name": "hello_9.jpg",
-        "file_size": 125365
-    },
-    {
-        "file_name": "hello_10.jpg",
-        "file_size": 48430
+        "file_name": "peach_5.jpg",
+        "file_size": 154050
     }
 ]

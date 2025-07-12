@@ -34,8 +34,8 @@ def upload_to_yandex_disk(token, file_name, file_content):
 
 def main():
     token = input("Введите токен с Полигона Яндекс.Диска: ")
+    text_for_image = input("Введите текст для картинки: ")
     number_of_images = int(input("Введите количество изображений для загрузки: "))
-    text_for_image = "hello"
 
     uploaded_files_info = []
 
