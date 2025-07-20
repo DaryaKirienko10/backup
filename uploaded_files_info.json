@@ -1,22 +1,42 @@
 [
     {
-        "file_name": "peach_1.jpg",
-        "file_size": 2799907
+        "file_name": "star_1.jpg",
+        "file_size": 119063
     },
     {
-        "file_name": "peach_2.jpg",
-        "file_size": 696524
+        "file_name": "star_2.jpg",
+        "file_size": 176554
     },
     {
-        "file_name": "peach_3.jpg",
-        "file_size": 1776761
+        "file_name": "star_3.jpg",
+        "file_size": 278313
     },
     {
-        "file_name": "peach_4.jpg",
-        "file_size": 638864
+        "file_name": "star_4.jpg",
+        "file_size": 1010515
     },
     {
-        "file_name": "peach_5.jpg",
-        "file_size": 154050
+        "file_name": "star_5.jpg",
+        "file_size": 164989
+    },
+    {
+        "file_name": "star_6.jpg",
+        "file_size": 180310
+    },
+    {
+        "file_name": "star_7.jpg",
+        "file_size": 185707
+    },
+    {
+        "file_name": "star_8.jpg",
+        "file_size": 82565
+    },
+    {
+        "file_name": "star_9.jpg",
+        "file_size": 94807
+    },
+    {
+        "file_name": "star_10.jpg",
+        "file_size": 118525
     }
 ]
